@@ -22,5 +22,42 @@
       "profile_picture": "profile2.jpg",
 			"isBooked" : true
     }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "shirt",
+      "gender": "male",
+      "price": 2000,
+      "category": "top-wear"
+    },
+    {
+      "id": 2,
+      "name": "shoes",
+      "gender": "kids",
+      "price": 1000,
+      "category": "foot-wear"
+    },
+    {
+      "id": 3,
+      "name": "pant",
+      "gender": "female",
+      "price": 3200,
+      "category": "bottom-wear"
+    },
+    {
+      "name": "pokkii",
+      "price": 2500,
+      "category": "foot-wear",
+      "gender": "female",
+      "id": 4
+    },
+    {
+      "name": "jordan",
+      "price": 2000,
+      "category": "foot-wear",
+      "gender": "male",
+      "id": 5
+    }
   ]
 }
